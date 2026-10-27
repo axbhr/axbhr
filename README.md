@@ -17,7 +17,7 @@ Hi, I'm Alex, a Computer Science master's student and working student in AI engi
 
 ### Tech
 
-<p><img src="https://skillicons.dev/icons?i=python,flutter&theme=dark" alt="Python, Flutter"></p>
+<p><img src="https://skillicons.dev/icons?i=python,flutter,rust&theme=dark" alt="Python, Flutter, Rust"></p>
 
 <details>
 <summary>Education & work</summary>
