@@ -28,6 +28,6 @@ Hi, I'm Alex, a Computer Science master's student and working student in AI engi
 
 </details>
 
-<p>
-  <a href="https://www.linkedin.com/in/alexander-buchner-4b1222389/"><img src="https://img.shields.io/badge/LinkedIn-Alexander%20Buchner-1b2540?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexander-buchner-4b1222389/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="320"></a>
 </p>
