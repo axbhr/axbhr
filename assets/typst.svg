@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="56.25" height="48" viewBox="0 0 300 256" role="img" aria-label="Typst">
-  <rect x="44" width="256" height="256" rx="60" fill="#242938"/>
-  <g fill="none" stroke="#239DAD" stroke-width="36" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M164 58 V158 Q164 198 202 198 H222"/>
-    <path d="M118 104 H220"/>
-  </g>
-</svg>

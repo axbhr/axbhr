@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="Typst">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <g fill="none" stroke="#239DAD" stroke-width="36" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M120 58 V158 Q120 198 158 198 H178"/>
+    <path d="M74 104 H176"/>
+  </g>
+</svg>
