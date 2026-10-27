@@ -15,6 +15,8 @@
   .px   { fill:#334155; }
   .pxon { fill:#94a3b8; animation: px 3.6s ease-in-out infinite; }
   .packet { fill:#c7d2fe; }
+  .logo { opacity:0; animation: fade 1s .1s ease-out forwards; }
+  @keyframes fade { to { opacity:1; } }
   @keyframes up { from { opacity:0; transform: translateY(10px);} to { opacity:1; transform:none;} }
   @keyframes draw { to { stroke-dashoffset:0; } }
   @keyframes word { 0%,100% { opacity:.08; transform: translateY(3px);} 50% { opacity:.55; transform: translateY(-3px);} }
@@ -26,7 +28,7 @@
   @keyframes px { 0%,100% { opacity:.25;} 40% { opacity:1;} }
   @media (prefers-reduced-motion: reduce) {
     * { animation: none !important; }
-    .name, .tag { opacity:1; } .rule { stroke-dashoffset:0; } .word { opacity:.35; }
+    .name, .tag, .logo { opacity:1; } .rule { stroke-dashoffset:0; } .word { opacity:.35; }
   }
 </style>
 <defs>
@@ -101,7 +103,7 @@
 <circle class="star" cx="548" cy="36" r="0.6" style="animation-delay:-3.2s;animation-duration:5.2s"/>
 </g>
 <g>
-<text class="word" x="20" y="30" style="animation-delay:-0.9s;animation-duration:10.7s">docker ps</text>
+<text class="word" x="440" y="50" style="animation-delay:-0.9s;animation-duration:10.7s">docker ps</text>
 <text class="word" x="165" y="22" style="animation-delay:-1.3s;animation-duration:11.9s">embed</text>
 <text class="word" x="305" y="38" style="animation-delay:-1.8s;animation-duration:11.4s">0x1F</text>
 <text class="word" x="390" y="27" style="animation-delay:-0.3s;animation-duration:8.1s">git commit</text>
@@ -231,6 +233,7 @@
 <rect class="pxon" x="970" y="222" width="7" height="7" style="animation-delay:1.25s"/>
 </g>
 <rect width="1000" height="250" fill="url(#shade)"/>
+<g class="logo" transform="translate(44 22) scale(1)"><rect x="1" y="1" width="22" height="22" rx="2" fill="#ffffff"/><path fill="#0A66C2" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.140 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></g>
 <text class="name" x="44" y="118">Alexander Buchner</text>
 <line class="rule" x1="46" y1="136" x2="226" y2="136"/>
 <text class="tag" x="44" y="164">LLMs · AI agents · automation · data science</text>
