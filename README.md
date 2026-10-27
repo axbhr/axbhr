@@ -1,6 +1,9 @@
 <p align="center"><img src="assets/header.svg" alt="Alexander Buchner" width="100%"></p>
 
-<p align="center"><img src="assets/typing.svg" alt="AI engineering · LLMs & agents | Automation & data science | Mostly Python, sometimes Flutter" width="600"></p>
+<p>
+  <a href="https://www.linkedin.com/in/alexander-buchner-4b1222389/"><img align="right" src="assets/linkedin.svg" alt="Connect on LinkedIn" height="40"></a>
+  <img src="assets/typing.svg" alt="AI engineering · LLMs & agents | Automation & data science | Mostly Python, sometimes Flutter" height="40">
+</p>
 
 <p align="center">
   Hi, I'm Alex, a Computer Science master's student and working student in AI engineering, based near Bonn/Cologne.
@@ -8,9 +11,5 @@
 </p>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python,flutter,rust,js&theme=dark" alt="Python, Flutter, Rust, JavaScript"></p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/alexander-buchner-4b1222389/"><img src="assets/linkedin.svg" alt="Connect on LinkedIn" width="320"></a>
-</p>
 
 <p align="center"><img src="assets/activity.svg" alt="Contribution activity over the last 12 months" width="100%"></p>
