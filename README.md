@@ -4,7 +4,7 @@
 
 <p align="center">
   Hi, I'm Alex, a Computer Science master's student and working student in AI engineering, based near Bonn/Cologne.
-  I did my B.Sc. in Computer Science at H-BRS (thesis graded 1.0). I mostly write Python and work on LLMs, AI agents, automation and data science.
+  I did my B.Sc. in Computer Science at H-BRS (thesis graded 1.0). I mostly write Python and work on AI agents, automation and data science.
 </p>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=python,flutter,rust,js&theme=dark" alt="Python, Flutter, Rust, JavaScript" height="48"><img src="assets/typst.svg" alt="Typst" height="48"></p>
