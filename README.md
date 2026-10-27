@@ -7,6 +7,6 @@
   I did my B.Sc. in Computer Science at H-BRS (thesis graded 1.0). I mostly write Python and work on LLMs, AI agents, automation and data science.
 </p>
 
-<p align="center"><img src="https://skillicons.dev/icons?i=python,flutter,rust,js&theme=dark" alt="Python, Flutter, Rust, JavaScript"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,flutter,rust,js&theme=dark" alt="Python, Flutter, Rust, JavaScript" height="48"><img src="assets/typst.svg" alt="Typst" height="48"></p>
 
 <p align="center"><img src="assets/activity.svg" alt="Contribution activity over the last 12 months" width="100%"></p>
