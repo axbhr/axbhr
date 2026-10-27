@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/header.svg" alt="Alexander Buchner" width="100%"></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/alexander-buchner-4b1222389/"><img align="right" src="assets/linkedin.svg" alt="Connect on LinkedIn" height="40"></a>
+  <a href="https://www.linkedin.com/in/alexander-buchner-4b1222389/"><img align="right" src="assets/linkedin.svg" alt="LinkedIn" height="40"></a>
   <img src="assets/typing.svg" alt="AI engineering · LLMs & agents | Automation & data science | Mostly Python, sometimes Flutter" height="40">
 </p>
 
